@@ -1,0 +1,8 @@
+[package]
+name = "Rock_Paper_Scissors_Rust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+rand = "0.10.3"
